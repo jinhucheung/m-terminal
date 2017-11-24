@@ -21,3 +21,9 @@ cp .config/terminator/config ~/.config/terminator/config
 ```
 cp .zshrc ~/.zshrc
 ```
+
+### THANKS
+
+[dotfiles](https://github.com/OfficialOxide/dotfiles)
+
+[Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
