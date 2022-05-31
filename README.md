@@ -25,7 +25,8 @@ cp .zshrc ~/.zshrc
 ### Visual Studio Code
 
 #### TERMINAL SETTINGS
-https://gist.github.com/480/3b41f449686a089f34edb45d00672f28
+
+@see https://gist.github.com/jinhucheung/d3714032bf04aa83f7d94df4bd91fb73
 
 ### THANKS
 
