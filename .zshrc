@@ -61,8 +61,10 @@ ZSH_THEME="agnoster"
 plugins=(
   git
   bundler
+  dotenv
   rake
   ruby
+  asdf
 )
 
 source $ZSH/oh-my-zsh.sh
